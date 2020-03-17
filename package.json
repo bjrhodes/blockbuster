@@ -1,0 +1,8 @@
+{
+  "name": "blockbuster",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bjrhodes/blockbuster.git",
+  "author": "Barry Rhodes <barry@huggg.me>",
+  "license": "MIT"
+}
