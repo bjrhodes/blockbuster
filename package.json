@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "git@github.com:bjrhodes/blockbuster.git",
   "author": "Barry Rhodes <barry@huggg.me>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
